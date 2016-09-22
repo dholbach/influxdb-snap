@@ -1,6 +1,6 @@
 # Snap of InfluxDB
 
-This repo allows you to create a snap of
+This repo allows you to create a [snap](http://snapcraft.io/) of
 [InfluxDB](https://github.com/influxdata/influxdb).
 
 On an Ubuntu system, simply run:
